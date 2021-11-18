@@ -1,2 +1,2 @@
-# De-muestra-
-Soy matias y yo programe esto
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
